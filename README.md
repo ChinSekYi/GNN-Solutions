@@ -1,2 +1,2 @@
-# Fraud_Detection_with_GNN
-Final Year Research Project 
+# GNN_Solutions
+A repo to hosts use cases for GNN (Graph Neural Networks). 
