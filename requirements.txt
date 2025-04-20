@@ -1,0 +1,6 @@
+tensorflow
+spektral
+pandas
+numpy
+black 
+isort 
